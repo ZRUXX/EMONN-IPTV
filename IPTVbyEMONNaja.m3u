@@ -24,7 +24,7 @@ http://210.210.155.37/qwr9ew/s/s08/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.adi.tv/wp-content/uploads/2021/07/ADI-BRAND-GENERIC-GREY.png" group-title="LOCAL",ADI TV
 https://v2.siar.us/aditv/livestream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets-a1.kompasiana.com/items/album/2020/05/29/1200px-tvrilogo2019-svg-wiki-5ed10875d541df5c457ee9d6.png" group-title="LOCAL",TVRI
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="LOCAL",TVRI
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.stickpng.com/images/608aeb580517f5000437cce9.png" group-title="LOCAL",CNBC
