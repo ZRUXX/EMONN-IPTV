@@ -97,6 +97,9 @@ https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e82
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="GLOBAL",TVRI WORLD
 http://118.97.50.107/Content/HLS/Live/Channel(TVRI3)/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/A9PXp2pjYWnd8NZ0oQbwniC31So=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8815/metro-globe-network-1ab3f1.jpg" group-title="GLOBAL",METRO GLOBE NETWORK
+https://etslive-2-vidio-com.akamaized.net/exp=1691337229~acl=/hls-p/ingest_8815_*/*~hmac=89fc1d9e722433516a91a799451196b3ce558e08860856f28261953643623210/hls-p/ingest_8815_720p/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/200px-NHK_World.svg.png" group-title="GLOBAL",NHK WORLD JAPAN
 https://bmcc.nhkworld.jp/live/index_1M.m3u8
 
