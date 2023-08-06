@@ -12,10 +12,10 @@ https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Logo_of_CNN_Indonesia.svg/1200px-Logo_of_CNN_Indonesia.svg.png" group-title="LOCAL",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-xeEVsLs1zsM/XdcUvPuKaDI/AAAAAAAABrU/muhvqTjcFtcSA3a9aybcVd4HkbJofhunQCEwYBhgL/w1200-h630-p-k-no-nu/logo-sctv-vector.jpg" group-title="LOCAL",SCTV
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-xeEVsLs1zsM/XdcUvPuKaDI/AAAAAAAABrU/muhvqTjcFtcSA3a9aybcVd4HkbJofhunQCEwYBhgL/w1200-h630-p-k-no-nu/logo-sctv-vector.jpg" group-title="LOCAL",SCTV HD
 http://210.210.155.37/qwr9ew/s/s03/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-xeEVsLs1zsM/XdcUvPuKaDI/AAAAAAAABrU/muhvqTjcFtcSA3a9aybcVd4HkbJofhunQCEwYBhgL/w1200-h630-p-k-no-nu/logo-sctv-vector.jpg" group-title="LOCAL",SCTV 2
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-xeEVsLs1zsM/XdcUvPuKaDI/AAAAAAAABrU/muhvqTjcFtcSA3a9aybcVd4HkbJofhunQCEwYBhgL/w1200-h630-p-k-no-nu/logo-sctv-vector.jpg" group-title="LOCAL",SCTV SD
 https://etslive-2-vidio-com.akamaized.net/exp=1691336158~acl=/hls-p/ingest_204_*/*~hmac=5e55874432df8f4f3b498f9caa1d78d3c6eeffa59c84d3f623b25c790b06fac8/hls-p/ingest_204_360p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/x/photo/2020/08/23/4173365336.jpeg" group-title="LOCAL",ANTV
