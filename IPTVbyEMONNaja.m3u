@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="Test server",SERVER TEST
+https://api.mp4.to/static/downloads/93e635cf-2d65-4f0f-b0b0-251944382767/dj-stereo-love-fullbeat-viral-tiktok-hcaobhabzsq.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.pixel.web.id/wp-content/uploads/2022/12/Live-Streaming-Trans7-Gratis.png" group-title="LOCAL",Trans7
 https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 
