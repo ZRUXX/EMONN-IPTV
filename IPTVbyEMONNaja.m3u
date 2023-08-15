@@ -1,10 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="Test server",SERVER TEST
-https://api.mp4.to/static/downloads/93e635cf-2d65-4f0f-b0b0-251944382767/dj-stereo-love-fullbeat-viral-tiktok-hcaobhabzsq.m3u8
-
-#EXTINF:-1 group-title="Test server",SERVER TEST
-https://api3.mkv.to/static/downloads/a1ae15a5-8c33-4a94-9d71-fe3dd565c041/nightcore-stereo-love-lyrics-us7b73z9qrc.m3u8
+https://api3.mp4.to/static/downloads/7dd985e9-5474-4d83-b312-8c1c0bbc570c/y2matecom-coldplay-a-sky-full-of-stars-official-video_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.pixel.web.id/wp-content/uploads/2022/12/Live-Streaming-Trans7-Gratis.png" group-title="LOCAL",Trans7
 https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
