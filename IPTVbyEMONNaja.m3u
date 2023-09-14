@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Test server",SERVER TEST
-https://api3.mp4.to/static/downloads/7dd985e9-5474-4d83-b312-8c1c0bbc570c/y2matecom-coldplay-a-sky-full-of-stars-official-video_720p.m3u8
+#EXTINF:-1 group-title="Test server",Trailer
+https://api3.mp4.to/static/downloads/0d6599f8-387a-4718-a7c8-0a96ad25afe0/new-project-2-a889f37.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.pixel.web.id/wp-content/uploads/2022/12/Live-Streaming-Trans7-Gratis.png" group-title="LOCAL",Trans7
 https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
